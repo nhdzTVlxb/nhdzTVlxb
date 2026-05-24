@@ -1,6 +1,7 @@
 ## Hi there 👋
 A good competition ranking is far more valuable than 95% of worthless papers. Just like medical students should learn how to treat patients, not worry about publishing papers.  
-If my work helps you, please give it a star 🌟
+If my work helps you, please give it a star 🌟  
+Don’t count your chickens before they hatch🍾
 <!--
 **nhdzTVlxb/nhdzTVlxb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
