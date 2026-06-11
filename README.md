@@ -1,5 +1,6 @@
 ## Hi there 👋
 A good competition ranking is far more valuable than 95% of worthless papers. Just like medical students should learn how to treat patients, not worry about publishing papers.  
+Competition is a legal drug.  
 If my work helps you, please give it a star 🌟  
 
 <!--
